@@ -34,6 +34,7 @@ function isRateLimited(ip) {
 // E-Mail-Blockliste — normalisiert Gmail-Punkte/Plus-Tags, damit Bots sie nicht
 // durch e.dip.a.ju.l.o.d.ev.8.5@gmail.com vs. ed.ip.ajulo.de.v85@gmail.com umgehen.
 const BLOCKED_EMAILS = new Set([
+  'ugibanicepi459@gmail.com',
   'edipajulodev85@gmail.com',
 ]);
 function normalizeEmail(email) {
