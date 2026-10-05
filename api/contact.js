@@ -197,7 +197,7 @@ module.exports = async function handler(req, res) {
 <p>We have received your message and will get back to you as soon as possible.</p>
 <p>See you at <strong>Sunny Beach, Dongtan Beach, Jomtien, Pattaya!</strong> 🌊</p>
 <p style="margin-top:1.5rem">Warm regards,<br><strong>Tum & Team — Sunny Beach Pattaya</strong><br>
-<a href="https://sunny-beach.xyz">sunny-beach.xyz</a></p>
+<a href="https://www.sunny-beach.xyz/">sunny-beach.xyz</a></p>
 <hr style="border:none;border-top:1px solid #e0f7f4;margin:1.5rem 0">
 <p style="color:#666;font-size:.85em">
   🇩🇪 Vielen Dank für Ihre Nachricht! Wir melden uns so bald wie möglich.<br>
